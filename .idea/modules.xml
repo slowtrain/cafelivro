@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMMS/CMMS.iml" filepath="$PROJECT_DIR$/CMMS/CMMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CafeLivro.iml" filepath="$PROJECT_DIR$/CafeLivro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrollActivity/ScrollActivity.iml" filepath="$PROJECT_DIR$/ScrollActivity/ScrollActivity.iml" />
+    </modules>
+  </component>
+</project>
