@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+                javax.json
                 MXWO_WORKORDERType workorder =new MXWO_WORKORDERType();
                 workorder.setWONUM(new MXStringType("CMMS001"));
                 workorder.setSTATUS(new MXDomainType("APPR"));
